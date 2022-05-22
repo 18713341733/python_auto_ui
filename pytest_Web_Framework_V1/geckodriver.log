@@ -1,0 +1,827 @@
+1641990271884	geckodriver	INFO	Listening on 127.0.0.1:63994
+1641990272394	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileBVdX7I"
+1641990295668	Marionette	INFO	Marionette enabled
+2022-01-12 20:24:56.482 firefox-bin[83691:11792216] Warning: Expected min height of view: (<NSButton: 0x131fd3000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 20:24:56.482 firefox-bin[83691:11792216] Warning: Expected min height of view: (<NSButton: 0x13e1aa000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 20:24:56.482 firefox-bin[83691:11792216] Warning: Expected min height of view: (<NSButton: 0x13e1aec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 20:24:56.483 firefox-bin[83691:11792216] Warning: Expected min height of view: (<NSButton: 0x13e1af400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 20:24:56.483 firefox-bin[83691:11792216] Warning: Expected min height of view: (<NSButton: 0x13e654800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 20:24:56.483 firefox-bin[83691:11792216] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e658400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 20:24:56.484 firefox-bin[83691:11792216] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e65a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileBVdX7I/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641990297799	Marionette	INFO	Listening on port 64024
+1641990297821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641990300570	Marionette	INFO	Stopped listening on port 64024
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1641992407504	geckodriver	INFO	Listening on 127.0.0.1:55020
+1641992407507	geckodriver	INFO	Listening on 127.0.0.1:55023
+1641992407517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofile2vyGRb"
+1641992407517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileKkaVa2"
+1641992408106	Marionette	INFO	Marionette enabled
+1641992408107	Marionette	INFO	Marionette enabled
+2022-01-12 21:00:09.055 firefox-bin[85406:11827446] Warning: Expected min height of view: (<NSButton: 0x142ac3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.055 firefox-bin[85406:11827446] Warning: Expected min height of view: (<NSButton: 0x142ac8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.055 firefox-bin[85406:11827446] Warning: Expected min height of view: (<NSButton: 0x142acb800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.056 firefox-bin[85406:11827446] Warning: Expected min height of view: (<NSButton: 0x142acbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.056 firefox-bin[85406:11827446] Warning: Expected min height of view: (<NSButton: 0x142ac9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.057 firefox-bin[85406:11827446] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x142aca000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.057 firefox-bin[85406:11827446] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x142d54800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.108 firefox-bin[85405:11827447] Warning: Expected min height of view: (<NSButton: 0x13e0dd800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.109 firefox-bin[85405:11827447] Warning: Expected min height of view: (<NSButton: 0x13e0dec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.109 firefox-bin[85405:11827447] Warning: Expected min height of view: (<NSButton: 0x13e583400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.110 firefox-bin[85405:11827447] Warning: Expected min height of view: (<NSButton: 0x13e583000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.110 firefox-bin[85405:11827447] Warning: Expected min height of view: (<NSButton: 0x13e582800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.110 firefox-bin[85405:11827447] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e581800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:00:09.111 firefox-bin[85405:11827447] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e58f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileKkaVa2/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofile2vyGRb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641992410223	Marionette	INFO	Listening on port 55032
+1641992410240	Marionette	INFO	Listening on port 55033
+1641992410262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641992410335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992412715, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992412860, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992430087, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992430062, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641992433038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641992433041	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992433950, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992433949, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+1641992455931	Marionette	INFO	Stopped listening on port 55032
+1641992456199	Marionette	INFO	Stopped listening on port 55033
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641992495692	geckodriver	INFO	Listening on 127.0.0.1:55674
+1641992495698	geckodriver	INFO	Listening on 127.0.0.1:55673
+1641992495709	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofilehgIe6o"
+1641992495710	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileqvCKXi"
+1641992496221	Marionette	INFO	Marionette enabled
+1641992496230	Marionette	INFO	Marionette enabled
+2022-01-12 21:01:37.014 firefox-bin[85520:11830953] Warning: Expected min height of view: (<NSButton: 0x140a72400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.015 firefox-bin[85520:11830953] Warning: Expected min height of view: (<NSButton: 0x140a73000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.016 firefox-bin[85520:11830953] Warning: Expected min height of view: (<NSButton: 0x140a70c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.017 firefox-bin[85520:11830953] Warning: Expected min height of view: (<NSButton: 0x140a72c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.018 firefox-bin[85520:11830953] Warning: Expected min height of view: (<NSButton: 0x140bbcc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.018 firefox-bin[85520:11830953] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140bbf000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.019 firefox-bin[85520:11830953] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140bc9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.021 firefox-bin[85521:11830955] Warning: Expected min height of view: (<NSButton: 0x13dcc2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.022 firefox-bin[85521:11830955] Warning: Expected min height of view: (<NSButton: 0x13dcc8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.022 firefox-bin[85521:11830955] Warning: Expected min height of view: (<NSButton: 0x13dcc3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.022 firefox-bin[85521:11830955] Warning: Expected min height of view: (<NSButton: 0x13dcc8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.023 firefox-bin[85521:11830955] Warning: Expected min height of view: (<NSButton: 0x13dcc3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.023 firefox-bin[85521:11830955] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e14f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:01:37.024 firefox-bin[85521:11830955] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e154000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofilehgIe6o/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileqvCKXi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641992498026	Marionette	INFO	Listening on port 55684
+1641992498037	Marionette	INFO	Listening on port 55683
+1641992498113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641992498123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992500451, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992500492, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992509693, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992511948, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641992513326	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992514177, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641992515466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992516252, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+1641992535885	Marionette	INFO	Stopped listening on port 55684
+1641992538226	Marionette	INFO	Stopped listening on port 55683
+1641992584156	geckodriver	INFO	Listening on 127.0.0.1:56235
+1641992584164	geckodriver	INFO	Listening on 127.0.0.1:56236
+1641992584174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileF0XVQl"
+1641992584175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileQYXQzu"
+1641992584659	Marionette	INFO	Marionette enabled
+1641992584683	Marionette	INFO	Marionette enabled
+2022-01-12 21:03:05.434 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x1423a3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.434 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x1423a2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.434 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x1423a2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.435 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x1423a7800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.435 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x1423a4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.435 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1423a5000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.436 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1426d8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.444 firefox-bin[85623:11833820] Warning: Expected min height of view: (<NSButton: 0x140cba000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.445 firefox-bin[85623:11833820] Warning: Expected min height of view: (<NSButton: 0x140cb9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.445 firefox-bin[85623:11833820] Warning: Expected min height of view: (<NSButton: 0x140cb8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.445 firefox-bin[85623:11833820] Warning: Expected min height of view: (<NSButton: 0x140cba400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.446 firefox-bin[85623:11833820] Warning: Expected min height of view: (<NSButton: 0x140cba800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.446 firefox-bin[85623:11833820] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140f70400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:05.446 firefox-bin[85623:11833820] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140f75000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileQYXQzu/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileF0XVQl/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641992586374	Marionette	INFO	Listening on port 56246
+1641992586403	Marionette	INFO	Listening on port 56244
+1641992586476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641992586481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992588815, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992588843, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992598865, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992598910, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641992602534	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641992602602	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992603450, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992603502, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1115: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+2022-01-12 21:03:38.785 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x148bad800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:38.785 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x15398d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:38.785 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x15398dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:38.786 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x153990800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:38.787 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSButton: 0x15398a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:38.787 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x153990400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:03:38.787 firefox-bin[85624:11833821] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1544e8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1641992625421	Marionette	INFO	Stopped listening on port 56244
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+1641992636412	Marionette	INFO	Stopped listening on port 56246
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641992644624	geckodriver	INFO	Listening on 127.0.0.1:56738
+1641992644629	geckodriver	INFO	Listening on 127.0.0.1:56739
+1641992644642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileWBTjzQ"
+1641992644642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileoZbLHK"
+1641992645147	Marionette	INFO	Marionette enabled
+1641992645161	Marionette	INFO	Marionette enabled
+2022-01-12 21:04:06.065 firefox-bin[85718:11836898] Warning: Expected min height of view: (<NSButton: 0x14000a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.065 firefox-bin[85718:11836898] Warning: Expected min height of view: (<NSButton: 0x140013800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.066 firefox-bin[85718:11836898] Warning: Expected min height of view: (<NSButton: 0x140012000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.066 firefox-bin[85718:11836898] Warning: Expected min height of view: (<NSButton: 0x140011800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.066 firefox-bin[85718:11836898] Warning: Expected min height of view: (<NSButton: 0x140014c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.067 firefox-bin[85718:11836898] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140017800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.068 firefox-bin[85718:11836898] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140427800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.070 firefox-bin[85717:11836897] Warning: Expected min height of view: (<NSButton: 0x142249c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.071 firefox-bin[85717:11836897] Warning: Expected min height of view: (<NSButton: 0x142254c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.071 firefox-bin[85717:11836897] Warning: Expected min height of view: (<NSButton: 0x142254000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.072 firefox-bin[85717:11836897] Warning: Expected min height of view: (<NSButton: 0x142258000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.072 firefox-bin[85717:11836897] Warning: Expected min height of view: (<NSButton: 0x142253800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.072 firefox-bin[85717:11836897] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x142255000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:04:06.074 firefox-bin[85717:11836897] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x142254800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileoZbLHK/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileWBTjzQ/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641992647098	Marionette	INFO	Listening on port 56748
+1641992647119	Marionette	INFO	Listening on port 56749
+1641992647138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641992647147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992649322, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992649343, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992658692, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992660713, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641992662196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992663073, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641992663261	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992664417, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+1641992684942	Marionette	INFO	Stopped listening on port 56749
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641992686206	Marionette	INFO	Stopped listening on port 56748
+1641992724656	geckodriver	INFO	Listening on 127.0.0.1:57293
+1641992724664	geckodriver	INFO	Listening on 127.0.0.1:57294
+1641992724673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileR18t5V"
+1641992724673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofile27us4G"
+1641992725195	Marionette	INFO	Marionette enabled
+1641992725199	Marionette	INFO	Marionette enabled
+2022-01-12 21:05:26.020 firefox-bin[85811:11839740] Warning: Expected min height of view: (<NSButton: 0x13de2e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.021 firefox-bin[85811:11839740] Warning: Expected min height of view: (<NSButton: 0x13de30800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.021 firefox-bin[85811:11839740] Warning: Expected min height of view: (<NSButton: 0x13de30c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.021 firefox-bin[85811:11839740] Warning: Expected min height of view: (<NSButton: 0x13de2c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.022 firefox-bin[85811:11839740] Warning: Expected min height of view: (<NSButton: 0x13de2cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.022 firefox-bin[85811:11839740] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13de2a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.022 firefox-bin[85811:11839740] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e355000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.058 firefox-bin[85810:11839739] Warning: Expected min height of view: (<NSButton: 0x13de17000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.059 firefox-bin[85810:11839739] Warning: Expected min height of view: (<NSButton: 0x13de15000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.059 firefox-bin[85810:11839739] Warning: Expected min height of view: (<NSButton: 0x13de16000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.060 firefox-bin[85810:11839739] Warning: Expected min height of view: (<NSButton: 0x13de1e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.060 firefox-bin[85810:11839739] Warning: Expected min height of view: (<NSButton: 0x13de1c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.061 firefox-bin[85810:11839739] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13de17c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:05:26.062 firefox-bin[85810:11839739] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e208c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofile27us4G/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileR18t5V/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641992727080	Marionette	INFO	Listening on port 57304
+1641992727087	Marionette	INFO	Listening on port 57302
+1641992727133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641992727190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992729352, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992729354, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992739557, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992739478, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641992743125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641992743154	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992743999, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641992744051, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+1641992766329	Marionette	INFO	Stopped listening on port 57302
+1641992766382	Marionette	INFO	Stopped listening on port 57304
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641993074000	geckodriver	INFO	Listening on 127.0.0.1:58870
+1641993074000	geckodriver	INFO	Listening on 127.0.0.1:58871
+1641993074028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileD8uz8z"
+1641993074028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileldMMxL"
+1641993074713	Marionette	INFO	Marionette enabled
+1641993074713	Marionette	INFO	Marionette enabled
+2022-01-12 21:11:15.533 firefox-bin[86075:11846341] Warning: Expected min height of view: (<NSButton: 0x140c16400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.534 firefox-bin[86075:11846341] Warning: Expected min height of view: (<NSButton: 0x140c1e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.534 firefox-bin[86075:11846341] Warning: Expected min height of view: (<NSButton: 0x140c1e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.535 firefox-bin[86075:11846341] Warning: Expected min height of view: (<NSButton: 0x140c19c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.535 firefox-bin[86075:11846341] Warning: Expected min height of view: (<NSButton: 0x140c1ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.536 firefox-bin[86075:11846341] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140c1b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.536 firefox-bin[86075:11846341] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141022c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.558 firefox-bin[86074:11846340] Warning: Expected min height of view: (<NSButton: 0x134f8ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.559 firefox-bin[86074:11846340] Warning: Expected min height of view: (<NSButton: 0x14080d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.559 firefox-bin[86074:11846340] Warning: Expected min height of view: (<NSButton: 0x14080fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.560 firefox-bin[86074:11846340] Warning: Expected min height of view: (<NSButton: 0x140810400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.560 firefox-bin[86074:11846340] Warning: Expected min height of view: (<NSButton: 0x140811400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.561 firefox-bin[86074:11846340] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14080dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:11:15.561 firefox-bin[86074:11846340] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140a3c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileldMMxL/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileD8uz8z/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641993076521	Marionette	INFO	Listening on port 58881
+1641993076541	Marionette	INFO	Listening on port 58880
+1641993076633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641993076637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641993078471, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641993078978, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641993088497, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641993089210, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641993091968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641993092661	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641993092869, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641993093734, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+1641993115234	Marionette	INFO	Stopped listening on port 58880
+1641993115963	Marionette	INFO	Stopped listening on port 58881
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641994181922	geckodriver	INFO	Listening on 127.0.0.1:62792
+1641994181922	geckodriver	INFO	Listening on 127.0.0.1:62791
+1641994181959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileFUIThs"
+1641994181959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofiledy6EP2"
+1641994182808	Marionette	INFO	Marionette enabled
+1641994182808	Marionette	INFO	Marionette enabled
+2022-01-12 21:29:43.733 firefox-bin[86860:11865243] Warning: Expected min height of view: (<NSButton: 0x13fda3000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.734 firefox-bin[86860:11865243] Warning: Expected min height of view: (<NSButton: 0x13fda2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.734 firefox-bin[86860:11865243] Warning: Expected min height of view: (<NSButton: 0x13fda0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.734 firefox-bin[86860:11865243] Warning: Expected min height of view: (<NSButton: 0x13fd9f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.735 firefox-bin[86860:11865243] Warning: Expected min height of view: (<NSButton: 0x13fda0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.735 firefox-bin[86860:11865243] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13fda4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.736 firefox-bin[86860:11865243] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140205400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.763 firefox-bin[86861:11865242] Warning: Expected min height of view: (<NSButton: 0x134ef0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.764 firefox-bin[86861:11865242] Warning: Expected min height of view: (<NSButton: 0x140752000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.764 firefox-bin[86861:11865242] Warning: Expected min height of view: (<NSButton: 0x140752800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.765 firefox-bin[86861:11865242] Warning: Expected min height of view: (<NSButton: 0x140754c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.765 firefox-bin[86861:11865242] Warning: Expected min height of view: (<NSButton: 0x11d4be400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.765 firefox-bin[86861:11865242] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140752400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-01-12 21:29:43.766 firefox-bin[86861:11865242] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140938c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileFUIThs/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofiledy6EP2/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641994184920	Marionette	INFO	Listening on port 62802
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1641994184992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641994185003	Marionette	INFO	Listening on port 62801
+1641994185082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641994187075, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: http://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641994187534, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1 line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641994196662, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641994197376, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641994200104	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641994200999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641994201049, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220111161918, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1641994202243, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/university_pc/static/js/main_v20220112205610.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+JavaScript error: https://j1.58cdn.com.cn/git/bic-University/smartWork_manage/static/js/main_v20220112104913.js, line 2: Error: Request aborted
+1641994218972	Marionette	INFO	Stopped listening on port 62801
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641994220317	Marionette	INFO	Stopped listening on port 62802
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645530850348	geckodriver	INFO	Listening on 127.0.0.1:57879
+1645530851278	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofilepZcT0O"
+1645530873991	Marionette	INFO	Marionette enabled
+2022-02-22 19:54:40.834 firefox-bin[81797:5735889] Warning: Expected min height of view: (<NSButton: 0x140f81c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:40.835 firefox-bin[81797:5735889] Warning: Expected min height of view: (<NSButton: 0x140f82c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:40.835 firefox-bin[81797:5735889] Warning: Expected min height of view: (<NSButton: 0x140f83800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:40.835 firefox-bin[81797:5735889] Warning: Expected min height of view: (<NSButton: 0x140f84800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:40.836 firefox-bin[81797:5735889] Warning: Expected min height of view: (<NSButton: 0x140f85800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:40.836 firefox-bin[81797:5735889] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140f82400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:40.836 firefox-bin[81797:5735889] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x14132cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofilepZcT0O/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1645530882051	Marionette	INFO	Listening on port 57890
+1645530882103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1645530883444, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.58corp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.58corp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://third.58.com/static/fm.js?ver=0.1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645530894703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1645530895447, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1645530896259, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645530898394	geckodriver	INFO	Listening on 127.0.0.1:58394
+1645530898405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileT0ucPv"
+1645530898745	Marionette	INFO	Marionette enabled
+2022-02-22 19:54:59.440 firefox-bin[81852:5737372] Warning: Expected min height of view: (<NSButton: 0x13ea97c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:59.441 firefox-bin[81852:5737372] Warning: Expected min height of view: (<NSButton: 0x13ea9d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:59.441 firefox-bin[81852:5737372] Warning: Expected min height of view: (<NSButton: 0x11b4c1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:59.441 firefox-bin[81852:5737372] Warning: Expected min height of view: (<NSButton: 0x13ea9a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:59.442 firefox-bin[81852:5737372] Warning: Expected min height of view: (<NSButton: 0x13ea97000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:59.442 firefox-bin[81852:5737372] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13ea9c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-22 19:54:59.442 firefox-bin[81852:5737372] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13ea98000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/64/8vbd7y8j1znbmbrlq11wkl9r0000gn/T/rust_mozprofileT0ucPv/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1645530900459	Marionette	INFO	Listening on port 58399
+1645530900488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 1: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://api.map.baidu.com/getscript?type=webgl&v=1.0&ak=RNMUSF148Ur9bDHDiNdAtGaiREmYLoh7&services=&t=20220210165725, line 16: unreachable code after return statement
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1645530902110, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
